@@ -45,10 +45,3 @@ public static class MoonoKube
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MoonoKube&icon=2&color=10)](https://visitcount.itsvg.in)
-
-## 💡 Partner With Us:
-
-Your support helps us drive innovation. Explore opportunities to collaborate:
-
-[![Contact Us](https://img.shields.io/badge/Contact%20Us-blue?style=for-the-badge)](https://MoonoKube.com/contact)
-
