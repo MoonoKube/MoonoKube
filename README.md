@@ -16,12 +16,12 @@ public static class MoonoKube
 
 🏡 [Website](https://MoonoKube.com/) **|**   
 
-## 🌐 Connect With Us:
+## 🌐 Connect:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8Bhr74mZuV)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MoonoKube)  
 
-## 💻 Tech Stack:
+## 💻 Tech:
 
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
