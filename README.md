@@ -12,7 +12,7 @@ public static class MoonoKube
 ```
 
 🔭 Currently advancing the logistics industry through cutting-edge software solutions.  
-🌱 Expanding our technical expertise in Delphi, Rust, and C#.  
+🌱 Expanding our technical expertise in Delphi,C# and Go.  
 
 🏡 [Website](https://MoonoKube.com/) **|**   
 
