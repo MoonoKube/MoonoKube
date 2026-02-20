@@ -2,13 +2,22 @@
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/10/d8/ba/10d8ba6db5fbe73ef31375870b481e16.gif" />
 
-```c#
-public static class MoonoKube
-{
-    public const string NAME = "MoonoKube";
-    public const string MISSION = "Delivering modern softwares for modern businesses.";
-    public const string SPECIALIZATION = "Software Development";
-}
+```pascal
+unit MoonoKubeUtils;
+
+interface
+
+type
+  TMoonoKube = class
+  public
+    const NAME = 'MoonoKube';
+    const MISSION = 'Delivering modern softwares for modern businesses.';
+    const SPECIALIZATION = 'Software Development';
+  end;
+
+implementation
+
+end.
 ```
 
 🔭 Currently advancing the logistics industry through cutting-edge software solutions.  
