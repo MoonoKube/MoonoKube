@@ -40,10 +40,6 @@ end.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-## 📊 Achievements:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonoKube&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🎨 Creative Highlights:
 
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)  
